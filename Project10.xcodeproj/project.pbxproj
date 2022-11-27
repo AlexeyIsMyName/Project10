@@ -13,6 +13,7 @@
 		E72C22E229337A7C0072BF0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E72C22E029337A7C0072BF0C /* Main.storyboard */; };
 		E72C22E429337A7E0072BF0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E72C22E329337A7E0072BF0C /* Assets.xcassets */; };
 		E72C22E729337A7E0072BF0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E72C22E529337A7E0072BF0C /* LaunchScreen.storyboard */; };
+		E72C22F029337FB20072BF0C /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72C22EF29337FB20072BF0C /* PersonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		E72C22E629337A7E0072BF0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E72C22E829337A7E0072BF0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E72C22EE29337AB30072BF0C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E72C22EF29337FB20072BF0C /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E72C22DA29337A7C0072BF0C /* AppDelegate.swift */,
 				E72C22DC29337A7C0072BF0C /* SceneDelegate.swift */,
 				E72C22DE29337A7C0072BF0C /* ViewController.swift */,
+				E72C22EF29337FB20072BF0C /* PersonCell.swift */,
 				E72C22E029337A7C0072BF0C /* Main.storyboard */,
 				E72C22E329337A7E0072BF0C /* Assets.xcassets */,
 				E72C22E529337A7E0072BF0C /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				E72C22DF29337A7C0072BF0C /* ViewController.swift in Sources */,
 				E72C22DB29337A7C0072BF0C /* AppDelegate.swift in Sources */,
+				E72C22F029337FB20072BF0C /* PersonCell.swift in Sources */,
 				E72C22DD29337A7C0072BF0C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
