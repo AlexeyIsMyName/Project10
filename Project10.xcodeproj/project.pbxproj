@@ -14,6 +14,7 @@
 		E72C22E429337A7E0072BF0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E72C22E329337A7E0072BF0C /* Assets.xcassets */; };
 		E72C22E729337A7E0072BF0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E72C22E529337A7E0072BF0C /* LaunchScreen.storyboard */; };
 		E72C22F029337FB20072BF0C /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72C22EF29337FB20072BF0C /* PersonCell.swift */; };
+		E7C19BB82934DA0300351910 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C19BB72934DA0300351910 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		E72C22E829337A7E0072BF0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E72C22EE29337AB30072BF0C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		E72C22EF29337FB20072BF0C /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		E7C19BB72934DA0300351910 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				E72C22DC29337A7C0072BF0C /* SceneDelegate.swift */,
 				E72C22DE29337A7C0072BF0C /* ViewController.swift */,
 				E72C22EF29337FB20072BF0C /* PersonCell.swift */,
+				E7C19BB72934DA0300351910 /* Person.swift */,
 				E72C22E029337A7C0072BF0C /* Main.storyboard */,
 				E72C22E329337A7E0072BF0C /* Assets.xcassets */,
 				E72C22E529337A7E0072BF0C /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7C19BB82934DA0300351910 /* Person.swift in Sources */,
 				E72C22DF29337A7C0072BF0C /* ViewController.swift in Sources */,
 				E72C22DB29337A7C0072BF0C /* AppDelegate.swift in Sources */,
 				E72C22F029337FB20072BF0C /* PersonCell.swift in Sources */,
